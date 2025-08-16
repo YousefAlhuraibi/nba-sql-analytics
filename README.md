@@ -22,3 +22,8 @@ Queries use **SQLite** features (CTEs, window functions, `strftime`) and were te
 **CLI**
 ```bash
 sqlite3 data/nba_stats.db < ./nba_top25_performance_2000plus.sql
+
+## Database
+
+Due to GitHub’s file size limits, the SQLite database (nba_stats.db) is hosted externally.
+Download: (https://drive.google.com/file/d/1L7eRTkZWO2GgdrRGao0KMtVdbVUhbuvs/view?usp=drive_link)
